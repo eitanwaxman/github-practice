@@ -1,5 +1,7 @@
 This is the first commit
 
+This is a change to main by someone else
+
 This is a local change 
 
 After pull - trying to push local change again
